@@ -1,2 +1,3 @@
 Updated from master.
 This is a test file. Extra changes...
+One more change for `git merge`.
